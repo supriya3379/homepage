@@ -1,2 +1,6 @@
-# homepage
-suvidha foundation homepage using html css
+<html>
+<head><title> this is title </title></head>
+<body>
+hello world
+</body>
+</html>
